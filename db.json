@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "id": "3a53",
+      "email": "admin@mail.ru",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "id": "180a",
+      "email": "user1@mail.ru",
+      "password": "1234",
+      "role": "user",
+      "blocked": false
+    },
+    {
+      "id": "180a",
+      "email": "user2@mail.ru",
+      "password": "123",
+      "role": "user",
+      "blocked": false
+    },
+    {
+      "id": "180a",
+      "email": "user3@mail.ru",
+      "password": "123",
+      "role": "user",
+      "blocked": false
+    },
+    {
+      "id": "180a",
+      "email": "user4@mail.ru",
+      "password": "123",
+      "role": "user",
+      "blocked": false
+    },
+    {
+      "id": "180a",
+      "email": "user5@mail.ru",
+      "password": "123",
+      "role": "user",
+      "blocked": false
+    },
+    {
+      "id": "180a",
+      "email": "user6@mail.ru",
+      "password": "123",
+      "role": "user",
+      "blocked": false
+    },
+    {
+      "id": "180a",
+      "email": "user7@mail.ru",
+      "password": "123",
+      "role": "user",
+      "blocked": false
+    },
+    {
+      "id": "180a",
+      "email": "user8@mail.ru",
+      "password": "123",
+      "role": "user",
+      "blocked": false
+    },
+    {
+      "id": "180a",
+      "email": "user9@mail.ru",
+      "password": "123",
+      "role": "user",
+      "blocked": false
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": "4d7a",
+      "userEmail": "admin@mail.ru",
+      "message": "отличный сервис"
+    },
+    {
+      "id": "2a4d",
+      "userEmail": "user1@mail.ru",
+      "message": "классное место"
+    },
+    {
+      "id": "696c",
+      "userEmail": "user1@mail.ru",
+      "message": "kerjkjgjkfgklklfd"
+    },
+    {
+      "id": "8073",
+      "userEmail": "admin@mail.ru",
+      "message": "ораовроалыв"
+    },
+    {
+      "id": "7559",
+      "userEmail": "user6@mail.ru",
+      "message": "привет"
+    },
+    {
+      "id": "963b",
+      "userEmail": "admin@mail.ru",
+      "message": "опаньки"
+    }
+  ]
+}
